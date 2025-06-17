@@ -1,1 +1,1 @@
-say
+exec 76561199120358966 /setspeed 5
