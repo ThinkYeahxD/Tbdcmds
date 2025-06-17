@@ -1,1 +1,1 @@
-say
+exec reV /setspeed 10
